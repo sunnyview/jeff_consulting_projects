@@ -1,4 +1,4 @@
-# jeff_study
+
 
 function neven {
 for num in $@
@@ -11,5 +11,7 @@ else
 fi
 done
 }
+
+# jeff_study
 
 
