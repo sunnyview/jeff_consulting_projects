@@ -1,4 +1,4 @@
-
+#this is a function i wrote at sh
 
 function neven {
 for num in $@
@@ -12,6 +12,6 @@ fi
 done
 }
 
-# jeff_study
+
 
 
