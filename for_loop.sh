@@ -1,3 +1,6 @@
+#!/usr/bin/env bash
+
+
 # nothing change here
 # this is a function i wrte 6/15
 
