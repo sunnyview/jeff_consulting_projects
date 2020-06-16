@@ -21,7 +21,9 @@ a block
 of code
 ```
 
-Here is how you make [WWW.YALE.edu](https://www.wikipedia.org/).
+Here is how you make [WWW.YALE.edu]
+
+and info can be found here [https://www.wikipedia.org/].
 
 ![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
 
