@@ -18,7 +18,7 @@ Here is `some code` in the middle of a sentence.
 ```
 This is
 a block
-of code
+of code about science behind the plan 
 ```
 
 Here is how you make [WWW.YALE.edu]
