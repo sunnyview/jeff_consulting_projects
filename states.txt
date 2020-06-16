@@ -51,3 +51,4 @@ Washington
 West Virginia
 Wisconsin
 Wyoming
+#!/usr/bin/env bash
