@@ -1,3 +1,5 @@
+#!/usr/bin/env bash
+
 
 max=0
 min=1000
